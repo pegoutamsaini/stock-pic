@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .logo-img {
+    height: 40px;
+  }
+  
+  .nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  
